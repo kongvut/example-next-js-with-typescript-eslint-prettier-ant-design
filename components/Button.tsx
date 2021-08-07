@@ -1,3 +1,5 @@
-import { Button } from 'antd';
+import { Button } from 'antd'
 
-export default () => <Button type="primary">Submit</Button>;
+const ButtonSubmit = () => <Button type="primary">Submit</Button>
+
+export default ButtonSubmit
